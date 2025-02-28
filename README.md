@@ -43,5 +43,5 @@ Mevcut Durum ve Gelecek Planları
 RemainderX ile nükleer tıp sektöründe maliyetleri optimize eden, verimliliği artıran ve hata riskini minimize eden bir geleceğe adım atın!
 
 # 📲 RemainderX Uygulamasını Yükle
-👉 [📥 Uygulamayı Yüklemek için tıklayın](https://savas11.github.io/RemainderX-App/index.html) 👈
+👉 [📥 Uygulamayı Yüklemek için tıklayın](https://savas11.github.io/RemainderX-App/RemainderX.plist) 👈
 
