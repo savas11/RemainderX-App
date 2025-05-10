@@ -1,0 +1,39 @@
+Gizlilik Politikası – ReminderX
+Son güncelleme: 10.05.2025
+
+Bu gizlilik politikası, SAVAS11 tarafından geliştirilen ReminderX uygulamasının kullanıcı verilerini nasıl topladığını, kullandığını ve koruduğunu açıklamaktadır.
+
+1. Toplanan Bilgiler
+ReminderX uygulaması aşağıdaki verileri toplayabilir:
+
+Kullanıcı adı, e-posta adresi (kayıt işlemi sırasında)
+
+Kamera verisi (yalnızca OCR işlemleri için, cihaz dışına çıkmaz)
+
+Uygulama içi işlem verileri (doz hesaplamaları, kayıt zamanları vs.)
+
+2. Bilgi Kullanımı
+Toplanan veriler;
+
+Kullanıcının uygulama deneyimini geliştirmek,
+
+Şirket içi analizler yapmak,
+
+Kullanıcılar arasında ortak veri paylaşımı sağlamak için kullanılır.
+
+3. Bilgi Paylaşımı
+Toplanan kişisel veriler üçüncü kişilerle paylaşılmaz. Ancak,
+
+Gerekli görülen teknik durumlarda geliştirici ekip tarafından erişilebilir.
+
+Yasal zorunluluk durumunda ilgili mercilerle paylaşılabilir.
+
+4. Veri Güvenliği
+Kullanıcı verileri şifreli olarak saklanır. Sunucular güvenli bağlantılarla korunmaktadır. Her kullanıcı yalnızca kendi verilerine erişebilir.
+
+5. Kullanıcı Hakları
+Kullanıcılar, istedikleri zaman hesaplarını silme ve verilerini kaldırma hakkına sahiptir. Bunun için destek talebi oluşturabilirler:
+📧 ozgursavas26@mgmail.com
+
+6. Politika Güncellemeleri
+Gizlilik politikası gerektiğinde güncellenebilir. Tüm değişiklikler uygulama içinde duyurulur.
