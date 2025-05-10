@@ -42,9 +42,3 @@ Mevcut Durum ve Gelecek Planları
 
 RemainderX ile nükleer tıp sektöründe maliyetleri optimize eden, verimliliği artıran ve hata riskini minimize eden bir geleceğe adım atın!
 
-## 📲 RemainderX iOS Uygulaması
-
-Uygulamayı yüklemek için aşağıdaki bağlantıya tıklayın:
-
-[📥 iPhone’a Yükle](https://savas11-remainderx1-0-0.web.app/)
-
